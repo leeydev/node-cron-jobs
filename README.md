@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/node-cron-jobs)
+![Version](https://img.shields.io/github/package-json/v/leeydev/node-cron-jobs)
+
 # node-cron-jobs
 
 Professional Cron Job Service built with Node.js.
